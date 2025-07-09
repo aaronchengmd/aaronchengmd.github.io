@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www3.pennmedicine.org/departments-and-centers/department-of-medicine/divisions/hematology-and-oncology'>Senior hematology fellow at Penn Medicine</a>. 
+subtitle: Senior hematology fellow at <a href='https://www3.pennmedicine.org/departments-and-centers/department-of-medicine/divisions/hematology-and-oncology'>Penn Medicine</a>. 
 
 profile:
   align: right
