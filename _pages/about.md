@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior hematology fellow at <a href='https://www3.pennmedicine.org/departments-and-centers/department-of-medicine/divisions/hematology-and-oncology'>Penn Medicine</a>. 
+subtitle: 
 
 profile:
   align: right
@@ -23,8 +23,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm a senior hematology fellow at the Hospital of the University of Pennsylvania, where I specialize in adults with hemoglobin disorders like thalassemia and sickle cell disease, among other red cell disorders. I'm also a Master of Science in Clinical Epidemiology candidate, and do research on outcomes and complications experienced by adults with hemoglobinopathies.
+Hi! I'm a senior hematology fellow at the Hospital of the University of Pennsylvania, where I specialize in adults with hemoglobin disorders like thalassemia and sickle cell disease, among other red cell disorders. I'm also a Master of Science in Clinical Epidemiology candidate, and study outcomes and complications experienced by adults with hemoglobinopathies. 
 
-Previously, I studied Chemical and Physical Biology -- and minored in Math -- at Harvard College. Afterward, I went to Harvard Medical School, where I was supported by the Howard Hughes Medical Institute research fellowship. I then did my internal medicine residency at the Massachusetts General Hospital, and was supported by the American Society of Hematology HONORS fellowship to do research related to complications related to iron overload.
+Previously, I studied Chemical and Physical Biology -- and minored in Math -- at Harvard College. Afterward, I went to Harvard Medical School, where I was supported by the Howard Hughes Medical Institute research fellowship. I then did my internal medicine residency at the Massachusetts General Hospital, and was supported by the American Society of Hematology HONORS fellowship to investigate complications related to iron overload.
 
 In my spare time, I like to create music, play chess, climb rocks, write poetry, and attend concerts.
