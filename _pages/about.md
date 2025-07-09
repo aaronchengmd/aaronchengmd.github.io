@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www3.pennmedicine.org/departments-and-centers/department-of-medicine/divisions/hematology-and-oncology'>Penn Medicine hematology fellow</a>. 
+subtitle: <a href='https://www3.pennmedicine.org/departments-and-centers/department-of-medicine/divisions/hematology-and-oncology'>Senior hematology fellow at Penn Medicine</a>. 
 
 profile:
   align: right
@@ -23,8 +23,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hi! I'm a senior hematology fellow at the Hospital of the University of Pennsylvania. I was trained in internal medicine at the Massachusetts General Hospital. Prior to this, I studied Chemical and Physical Biology -- and minored in Math -- at Harvard College. Afterward, I went to Harvard Medical School where I was supported by the Howard Hughes Medical Institute research fellowship. I've done research in iron metabolism, genetics, and hematology. I do clinical and research work in classical hematology and clinical epidemiology. In my spare time, I like to create music, play chess, climb rocks, and write poetry. 
